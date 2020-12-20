@@ -16,7 +16,7 @@ URL:
 
 ### Usage
 Horiseon is a marketing agency that helps companies with search engine optimization, online reputation management, and social media marketing. In layman's terms, Horiseon will help get a company or business more customers by increasing visibility. For example, if you are a new business owner and want to increase customer traffic, Horiseon will help.
-![Horiseon Homepage](Develop\assets\images\Screenshot.png)
+[Horiseon Homepage](Develop\assets\images\Screenshot.png)
 
 ### Credits
-Original Creator of repo: [Xander Rapstine ](http://www.rapstine.com/)
+Original Creator of repo: [Xander Rapstine](http://www.rapstine.com/)
